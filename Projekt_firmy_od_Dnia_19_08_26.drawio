@@ -1,0 +1,14 @@
+<mxfile host="Electron">
+  <diagram name="Strona-1" id="WVoVz8RxMUeikUc_DYl3">
+    <mxGraphModel dx="694" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IvvE4bcGttOdq7GL5kvX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Andrzej Pniewski" vertex="1">
+          <mxGeometry height="200" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="IvvE4bcGttOdq7GL5kvX-2" parent="0" value="tekst" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
